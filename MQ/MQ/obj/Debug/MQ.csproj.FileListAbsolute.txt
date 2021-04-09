@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\MQ\MQ\bin\Debug\MQ.exe.config
+C:\Users\User\source\repos\MQ\MQ\bin\Debug\MQ.exe
+C:\Users\User\source\repos\MQ\MQ\bin\Debug\MQ.pdb
+C:\Users\User\source\repos\MQ\MQ\obj\Debug\MQ.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MQ\MQ\obj\Debug\MQ.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MQ\MQ\obj\Debug\MQ.exe
+C:\Users\User\source\repos\MQ\MQ\obj\Debug\MQ.pdb
